@@ -7,7 +7,7 @@
             "nilai_transaksi": 45000,
             "sales": 1,
             "depo": 1,
-            "status_pembayaran": { "kode": 3, "status": "parsial" }
+            "status_pembayaran": { "kode": 2, "status": "parsial" }
         },
         {
             "no_faktur": 2,
@@ -16,7 +16,7 @@
             "nilai_transaksi": 45000,
             "sales": 2,
             "depo": 2,
-            "status_pembayaran": { "kode": 2, "status": "belum dibayar" }
+            "status_pembayaran": { "kode": 0, "status": "belum dibayar" }
         },
         {
             "no_faktur": 3,
@@ -25,7 +25,7 @@
             "nilai_transaksi": 45000,
             "sales": 3,
             "depo": 3,
-            "status_pembayaran": { "kode": 2, "status": "belum dibayar" }
+            "status_pembayaran": { "kode": 0, "status": "belum dibayar" }
         },
         {
             "no_faktur": 4,
@@ -34,7 +34,7 @@
             "nilai_transaksi": 45000,
             "sales": 4,
             "depo": 4,
-            "status_pembayaran": { "kode": 0, "status": "tidak dibayar" }
+            "status_pembayaran": { "kode": 0, "status": "belum dibayar" }
         },
         {
             "no_faktur": 5,
