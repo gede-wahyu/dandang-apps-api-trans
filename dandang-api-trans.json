@@ -1,0 +1,58 @@
+{
+    "riwayat-transaksi": [
+        {
+            "no_faktur": 1,
+            "customer": "customer 1",
+            "status": "selesai",
+            "nilai_transaksi": 45000,
+            "sales": 1,
+            "depo": 1,
+            "status_pembayaran": "lunas"
+        },
+        {
+            "no_faktur": 2,
+            "customer": "customer 2",
+            "status": "selesai",
+            "nilai_transaksi": 45000,
+            "sales": 2,
+            "depo": 2,
+            "status_pembayaran": "lunas"
+        },
+        {
+            "no_faktur": 3,
+            "customer": "customer 3",
+            "status": "selesai",
+            "nilai_transaksi": 45000,
+            "sales": 3,
+            "depo": 3,
+            "status_pembayaran": "lunas"
+        },
+        {
+            "no_faktur": 4,
+            "customer": "customer 4",
+            "status": "selesai",
+            "nilai_transaksi": 45000,
+            "sales": 4,
+            "depo": 4,
+            "status_pembayaran": "lunas"
+        },
+        {
+            "no_faktur": 5,
+            "customer": "customer 5",
+            "status": "selesai",
+            "nilai_transaksi": 45000,
+            "sales": 5,
+            "depo": 5,
+            "status_pembayaran": "lunas"
+        },
+        {
+            "no_faktur": 6,
+            "customer": "customer 6",
+            "status": "selesai",
+            "nilai_transaksi": 45000,
+            "sales": 6,
+            "depo": 6,
+            "status_pembayaran": "lunas"
+        }
+    ]
+}
