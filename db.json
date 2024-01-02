@@ -41,7 +41,7 @@
             "status_pembayaran": { "kode": 0, "status": "belum dibayar" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904895",
+            "no_faktur": "DBDGGT.01INVADM01230904896",
             "customer": "customer 5",
             "tanggal": 1706160060000,
             "status": { "kode": 1, "status": "selesai" },
