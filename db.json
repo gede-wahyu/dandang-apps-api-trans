@@ -154,21 +154,21 @@
             "no_faktur": "DBDGGT.01INVADM01230904977",
             "customer": "customer 6",
             "tanggal": 1704156300000,
-            "status": { "kode": 1, "status": "selesai" },
+            "status": { "kode": 2, "status": "belum selesai" },
             "nilai_transaksi": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "status_pembayaran": { "kode": 2, "status": "parsial" }
         },
         {
             "no_faktur": "DBDGGT.01INVADM01230904978",
             "customer": "customer 6",
             "tanggal": 1704159180000,
-            "status": { "kode": 1, "status": "selesai" },
+            "status": { "kode": 2, "status": "belum selesai" },
             "nilai_transaksi": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "status_pembayaran": { "kode": 0, "status": "belum dibayar" }
         },
         {
             "no_faktur": "DBDGGT.01INVADM01230904979",
