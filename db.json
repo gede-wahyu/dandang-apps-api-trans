@@ -1,184 +1,184 @@
 {
     "riwayat-transaksi": [
         {
-            "no_faktur": "DBDGGT.01INVADM01230905054",
-            "customer": "customer 1",
-            "tanggal": 1693530240000,
-            "status": { "kode": 2, "status": "belum selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230905054",
+            "customer_name": "customer 1",
+            "date": 1693530240000,
+            "status": { "code": 2, "status": "belum selesai" },
+            "total_amount": 45000,
             "sales": "BDGMTR28",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 2, "status": "parsial" }
+            "payment_status": { "code": 2, "status": "parsial" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230905055",
-            "customer": "customer 2",
-            "tanggal": 1693544640000,
-            "status": { "kode": 3, "status": "batal" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230905055",
+            "customer_name": "customer 2",
+            "date": 1693544640000,
+            "status": { "code": 3, "status": "batal" },
+            "total_amount": 45000,
             "sales": "BDGMTR28",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 0, "status": "belum dibayar" }
+            "payment_status": { "code": 0, "status": "belum dibayar" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230905086",
-            "customer": "customer 3",
-            "tanggal": 1693879620000,
-            "status": { "kode": 2, "status": "belum selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230905086",
+            "customer_name": "customer 3",
+            "date": 1693879620000,
+            "status": { "code": 2, "status": "belum selesai" },
+            "total_amount": 45000,
             "sales": "BDGOFFGT",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 0, "status": "belum dibayar" }
+            "payment_status": { "code": 0, "status": "belum dibayar" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904895",
-            "customer": "customer 4",
-            "tanggal": 1693905720000,
-            "status": { "kode": 0, "status": "gagal" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904895",
+            "customer_name": "customer 4",
+            "date": 1693905720000,
+            "status": { "code": 0, "status": "gagal" },
+            "total_amount": 45000,
             "sales": "BDGSGT01",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 0, "status": "belum dibayar" }
+            "payment_status": { "code": 0, "status": "belum dibayar" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904896",
-            "customer": "customer 5",
-            "tanggal": 1694056860000,
-            "status": { "kode": 1, "status": "selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904896",
+            "customer_name": "customer 5",
+            "date": 1694056860000,
+            "status": { "code": 1, "status": "selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT01",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "payment_status": { "code": 1, "status": "lunas" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904967",
-            "customer": "customer 6",
-            "tanggal": 1694071860000,
-            "status": { "kode": 1, "status": "selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904967",
+            "customer_name": "customer 6",
+            "date": 1694071860000,
+            "status": { "code": 1, "status": "selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "payment_status": { "code": 1, "status": "lunas" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904968",
-            "customer": "customer 6",
-            "tanggal": 1697251440000,
-            "status": { "kode": 1, "status": "selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904968",
+            "customer_name": "customer 6",
+            "date": 1697251440000,
+            "status": { "code": 1, "status": "selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "payment_status": { "code": 1, "status": "lunas" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904969",
-            "customer": "customer 6",
-            "tanggal": 1697254620000,
-            "status": { "kode": 1, "status": "selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904969",
+            "customer_name": "customer 6",
+            "date": 1697254620000,
+            "status": { "code": 1, "status": "selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "payment_status": { "code": 1, "status": "lunas" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904970",
-            "customer": "customer 6",
-            "tanggal": 1697344020000,
-            "status": { "kode": 2, "status": "belum selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904970",
+            "customer_name": "customer 6",
+            "date": 1697344020000,
+            "status": { "code": 2, "status": "belum selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 0, "status": "belum dibayar" }
+            "payment_status": { "code": 0, "status": "belum dibayar" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904971",
-            "customer": "customer 6",
-            "tanggal": 1697352180000,
-            "status": { "kode": 1, "status": "selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904971",
+            "customer_name": "customer 6",
+            "date": 1697352180000,
+            "status": { "code": 1, "status": "selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "payment_status": { "code": 1, "status": "lunas" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904972",
-            "customer": "customer 6",
-            "tanggal": 1698581100000,
-            "status": { "kode": 1, "status": "selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904972",
+            "customer_name": "customer 6",
+            "date": 1698581100000,
+            "status": { "code": 1, "status": "selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "payment_status": { "code": 1, "status": "lunas" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904973",
-            "customer": "customer 6",
-            "tanggal": 1698583920000,
-            "status": { "kode": 1, "status": "selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904973",
+            "customer_name": "customer 6",
+            "date": 1698583920000,
+            "status": { "code": 1, "status": "selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "payment_status": { "code": 1, "status": "lunas" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904974",
-            "customer": "customer 6",
-            "tanggal": 1699152660000,
-            "status": { "kode": 1, "status": "selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904974",
+            "customer_name": "customer 6",
+            "date": 1699152660000,
+            "status": { "code": 1, "status": "selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "payment_status": { "code": 1, "status": "lunas" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904975",
-            "customer": "customer 6",
-            "tanggal": 1699154580000,
-            "status": { "kode": 1, "status": "selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904975",
+            "customer_name": "customer 6",
+            "date": 1699154580000,
+            "status": { "code": 1, "status": "selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "payment_status": { "code": 1, "status": "lunas" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904976",
-            "customer": "customer 6",
-            "tanggal": 1704154200000,
-            "status": { "kode": 1, "status": "selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904976",
+            "customer_name": "customer 6",
+            "date": 1704154200000,
+            "status": { "code": 1, "status": "selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "payment_status": { "code": 1, "status": "lunas" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904977",
-            "customer": "customer 6",
-            "tanggal": 1704156300000,
-            "status": { "kode": 2, "status": "belum selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904977",
+            "customer_name": "customer 6",
+            "date": 1704156300000,
+            "status": { "code": 2, "status": "belum selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 2, "status": "parsial" }
+            "payment_status": { "code": 2, "status": "parsial" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904978",
-            "customer": "customer 6",
-            "tanggal": 1704159180000,
-            "status": { "kode": 2, "status": "belum selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904978",
+            "customer_name": "customer 6",
+            "date": 1704159180000,
+            "status": { "code": 2, "status": "belum selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 0, "status": "belum dibayar" }
+            "payment_status": { "code": 0, "status": "belum dibayar" }
         },
         {
-            "no_faktur": "DBDGGT.01INVADM01230904979",
-            "customer": "customer 6",
-            "tanggal": 1704166860000,
-            "status": { "kode": 1, "status": "selesai" },
-            "nilai_transaksi": 45000,
+            "reference": "DBDGGT.01INVADM01230904979",
+            "customer_name": "customer 6",
+            "date": 1704166860000,
+            "status": { "code": 1, "status": "selesai" },
+            "total_amount": 45000,
             "sales": "BDGSGT03",
             "depo": "DBDGGT.01",
-            "status_pembayaran": { "kode": 1, "status": "lunas" }
+            "payment_status": { "code": 1, "status": "lunas" }
         }
     ]
 }
